@@ -5,7 +5,7 @@
 
 - 📫 Entre em contato comigo! **josuelobo2000@gmail.com**
 
-- 💬 Fluente em [Inglês e estudante de espanhol](Inglês e estudante de espanhol)
+- 💬 Fluente em Inglês e estudante de espanhol
 
 - ⚡ Aspirante de **design e UX, e com um hobby por arte e pintura**
 
