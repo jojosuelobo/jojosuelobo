@@ -1,5 +1,5 @@
-<p align="center">Hello World! <em>I'm <p>Josué Lobo</p> Computer scientist student at <a href="https://uvv.br">University of Vila Velha (UVV)</a>
-</em></p>
+<p align="center">Hello World! I'm Josué Lobo Computer scientist student at <a href="https://uvv.br">University of Vila Velha (UVV)</a>
+</p>
 
 ###
 
