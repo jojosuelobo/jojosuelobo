@@ -1,4 +1,5 @@
-<p align="left">Hello World! I'm Josué Lobo<br>Computer scientist student at University of Vila Velha (UVV)</p>
+<p align="left">Hello World! <em>I'm Josué Lobo Computer scientist student at <a href="https://uvv.br">University of Vila Velha (UVV)</a>
+</em></p>
 
 ###
 
@@ -27,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="josuelobo2000@gmail.com" target="_blank">
+  <a href="mailto:josuelobo2000@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
