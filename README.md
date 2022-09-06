@@ -2,8 +2,8 @@
 </p>
 
 ```javascript
-const josue = {
-  pronouns: "he" | "him",
+const JOSUÉ = {
+  pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Python, Java, C#],
   tools: [React, Node, Bootstrap Figma],
  challenge: "Currently studying more of React and Python to improve my knowledge of those languages
