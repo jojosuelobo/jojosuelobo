@@ -1,4 +1,4 @@
-<p align="center">Olá Mundo! Me chamo Josué Lobo, formado em ciência da computação pela <a href="https://uvv.br">Universidade Vila Velha (UVV)</a> e analista de Qualidade de Software (QA) além de desenvolvedor web com experiência em testes manuais e automatizados, e programação em React. </p>
+<p align="center">Olá Mundo! Me chamo Josué Lobo, formado em ciência da computação pela <a href="https://uvv.br">Universidade Vila Velha (UVV)</a> e analista de Qualidade de Software (QA) além de desenvolvedor web com experiência em testes manuais e automatizados, e programação em React. Escrevo também uns artigos e documentações sobre o que aprendo no <a href="https://dev.to/jojosuelobo">DEV.to</a>.</p>
 
 ```javascript
 const jojosue = {
