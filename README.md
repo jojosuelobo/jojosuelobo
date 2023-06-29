@@ -1,55 +1,40 @@
-<p align="center">Hello World! I'm Josué Lobo Computer scientist student at <a href="https://uvv.br">University of Vila Velha (UVV)</a>
-</p>
+<p align="center">Olá Mundo! Me chamo Josué Lobo, formado em ciência da computação pela <a href="https://uvv.br">Universidade Vila Velha (UVV)</a> e analista de Qualidade de Software (QA) além de desenvolvedor web com experiência em testes manuais e automatizados, e programação em React. </p>
 
 ```javascript
-const JOSUÉ = {
-  pronouns: "He" | "Him",
+const jojosue = {
+  acknowledgements: "Front End Developer", "Q/A Analyst" 
   code: [Javascript, HTML, CSS, Python, Java, C#],
-  tools: [React, Node, Bootstrap Figma],
- challenge: "Currently studying more of React and Python to improve my knowledge of those languages
+  tools: [Node, React, Selenium, Cypress, Figma],
+  challenge: "Currently studying more of Typescript and NestJS to improve my knowledge of those languages
 }
 ```
 
-###
+## **Linguagens e Ferramentas:**  
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=jojosuelobo" height="150" alt="languages graph"  />
-</div>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://ionicframework.com/docs/icons/logo-react-icon.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/sass-3629037-3030394.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://camo.githubusercontent.com/cdd289ae72f33665800bc6a63936d5afa0454214d520945780894151112a055f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667"></code>
 
-###
+## **GitHub Estatísticas**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-</div>
+[![jojosuelobo](https://github-readme-stats.vercel.app/api?username=jojosuelobo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jojosuelobo](https://github-readme-stats.vercel.app/api/top-langs/?username=jojosuelobo&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-###
+#### Contato!
+[linkedin]: https://www.linkedin.com/in/jojosuelobo/
+[Email]: josuelobo2000@gmail.com
+[Whatzapp]: https://wa.me/5527988486353
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jojosuelobo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="mailto:josuelobo2000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+👔 [LinkedIn] 
 
-###
+📧 [Email] 
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"  />
-</div>
-
-###
-
-
+📞 [Whatzapp]
 
 
 
