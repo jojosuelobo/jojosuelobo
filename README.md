@@ -25,6 +25,6 @@ const jojosue = {
 
 👔 [LinkedIn] 
 
-📧 [Email] 
+📧 [josuelobo2000@gmail.com] 
 
 📞 [Whatzapp]
