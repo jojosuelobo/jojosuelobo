@@ -9,9 +9,10 @@ const jojosue = {
 }
 ```
 
-## **Linguagens e Ferramentas:**  
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,cs,java,mysql,vscode,visualstudio,git,github,selenium,figma)](https://skillicons.dev)
+## **Linguagens**  
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,cs,java,mysql,selenium)](https://skillicons.dev)
+## **Ferramentas**
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma)](https://skillicons.dev)
 
 ## **GitHub Estatísticas**
 
@@ -22,8 +23,12 @@ const jojosue = {
 [linkedin]: https://www.linkedin.com/in/jojosuelobo/
 [Email]: josuelobo2000@gmail.com
 [Whatzapp]: https://wa.me/5527988486353
+ 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/jojosuelobo/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:josuelobo2000@gmail.com)
+[![Whatzapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://wa.me/5527988486353)
 
-👔 [LinkedIn][LinkedIn] **|**
- 📧 josuelobo2000@gmail.com **|**
- 📞 [Whatzapp]
 
