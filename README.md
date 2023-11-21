@@ -10,7 +10,11 @@ const jojosue = {
 ```
 
 ## **Linguagens**  
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,sass,cs,java,mysql,selenium)](https://skillicons.dev)
+<p>
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,cs,java,mysql,selenium" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=cypress" />
+</p>
+
 ## **Ferramentas**
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma)](https://skillicons.dev)
 
