@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/jojosuelobo/"><img src="https://img.shields.io/badge/-Josué%20Lobo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="https://www.instagram.com/jojosuelobo/"><img src="https://img.shields.io/badge/-@jojosuelobo_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <a href=""><img src="https://img.shields.io/badge/-jojosuelobo-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-    <a href="mailto:josuelobo2000@gmail.com"><img src="https://img.shields.io/badge/-josuelobo2000@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:jojosuelobo@gmail.com"><img src="https://img.shields.io/badge/-jojosuelobo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://wa.me/5527988486353"><img src="https://img.shields.io/badge/Whatsapp-128c7e?&logo=whatsapp"/></a>
   </p>
 </div>
