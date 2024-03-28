@@ -21,7 +21,7 @@ const jojosue = {
 
 ## **Tecnologias**  
 <p>
-    <img src="https://skillicons.dev/icons?i=js,react,jest,html,css,sass,cs,java,mysql,selenium,python" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,jest,html,css,sass,cs,java,mysql,selenium,python" />
     <img src="https://simpleskill.icons.workers.dev/svg?i=cypress" />
 </p>
 
