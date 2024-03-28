@@ -19,9 +19,9 @@ const jojosue = {
 }
 ```
 
-## **Linguagens**  
+## **Tecnologias**  
 <p>
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,sass,cs,java,mysql,selenium" />
+    <img src="https://skillicons.dev/icons?i=js,react,jest,html,css,sass,cs,java,mysql,selenium" />
     <img src="https://simpleskill.icons.workers.dev/svg?i=cypress" />
 </p>
 
