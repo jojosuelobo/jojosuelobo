@@ -23,6 +23,7 @@ const jojosue = {
 <p>
     <img src="https://skillicons.dev/icons?i=js,ts,react,jest,html,css,sass,cs,java,mysql,selenium,python" />
     <img src="https://simpleskill.icons.workers.dev/svg?i=cypress" />
+    <img src="https://skillicons.dev/icons?i=r" />
 </p>
 
 ## **Ferramentas**
