@@ -12,10 +12,10 @@
 
 ```javascript
 const jojosue = {
-  acknowledgements: "Front End Developer", "Q/A Analyst", 
+  Especialização: "Analista de Q/A", "Dev Front End", 
   code: [Javascript, HTML, CSS, Python, Java, C#],
-  tools: [Node, React, Selenium, Cypress, Figma],
-  challenge: "Currently studying more of Typescript and NestJS to improve my knowledge of those languages"
+  Ferramentas: [Node, React, Selenium, Cypress, Figma],
+  Desafios: "Atualmente estudando mais Typescript e NestJS para melhorar meu conhecimento dessas linguagens"
 }
 ```
 
