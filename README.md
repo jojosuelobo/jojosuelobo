@@ -26,7 +26,7 @@ const jojosue = {
 </p>
 
 ## **Ferramentas**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,notion)](https://skillicons.dev)
 
 ## **GitHub Estatísticas**
 
