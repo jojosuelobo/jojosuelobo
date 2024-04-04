@@ -29,6 +29,11 @@ const jojosue = {
 ## **Ferramentas**
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,notion)](https://skillicons.dev)
 
+## 🏆 Certificações:
+<p>
+<img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20>
+</p>
+
 ## **GitHub Estatísticas**
 
 [![jojosuelobo](https://github-readme-stats.vercel.app/api?username=jojosuelobo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
