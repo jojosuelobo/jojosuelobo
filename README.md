@@ -33,10 +33,3 @@ const jojosue = {
 <p>
 <img src=https://img.shields.io/badge/-CTFL%20-%23525252.svg?style=flat%20>
 </p>
-
-## **GitHub Estatísticas**
-
-[![jojosuelobo](https://github-readme-stats.vercel.app/api?username=jojosuelobo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![jojosuelobo](https://github-readme-stats.vercel.app/api/top-langs/?username=jojosuelobo&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
