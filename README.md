@@ -1,6 +1,6 @@
 <div align="center">
 
-### QA Engineer · Cypress Ambassador · AI Enthusiast
+## QA Engineer · Cypress Ambassador · AI Enthusiast
 
 <p>
   <a href="https://www.linkedin.com/in/jojosuelobo/"><img src="https://img.shields.io/badge/-Josué%20Lobo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
