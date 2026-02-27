@@ -9,8 +9,6 @@
 
 </div>
 
----
-
 
 Sou Josué Lobo, QA Engineer, Desenvolvedor e Entusiasta de IA, com **+4 anos de experiência** em garantia de qualidade de software, atuando em startups e consultorias. Bacharel em Ciência da Computação pela **Universidade Vila Velha (UVV)** e pós-graduado em **Data Science & Machine Learning**.
 
