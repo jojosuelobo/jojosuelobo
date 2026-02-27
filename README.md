@@ -1,6 +1,5 @@
 <div align="center">
 
-# Josué Lobo
 ### QA Engineer · Cypress Ambassador · AI Enthusiast
 
 <p>
