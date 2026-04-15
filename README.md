@@ -12,7 +12,7 @@
 
 I'm Josué Lobo, QA Engineer, Developer, and AI Enthusiast, with +4 years of experience in software quality assurance, working across startups and consultancies. Bachelor's degree in Computer Science from Vila Velha University (UVV) and postgraduate degree in Data Science & Machine Learning.
 
-I'm a Cypress Ambassador 🌲 passionate about quality, automation, and the world of Artificial Intelligence applied to software development. I also create content on YouTube 🎥 about test automation and Cypress, feel free to check out [my channel](https://www.youtube.com/@jojosuelobo)
+I'm a Cypress Ambassador 🌲 passionate about quality, automation, and the world of Artificial Intelligence applied to software development. I also create content on YouTube about test automation and Cypress, feel free to check out [my channel](https://www.youtube.com/@jojosuelobo)
 
 ---
 
