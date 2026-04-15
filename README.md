@@ -3,26 +3,26 @@
 ## QA Engineer · Cypress Ambassador · AI Enthusiast
 
 <p>
-  <a href="https://www.linkedin.com/in/jojosuelobo/"><img src="https://img.shields.io/badge/-Josué%20Lobo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jojosuelobo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:jojosuelobo@gmail.com"><img src="https://img.shields.io/badge/-jojosuelobo@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@jojosuelobo"><img src="https://img.shields.io/badge/Youtube-8A2BE2?color=%23FF0033"/></a>
 </p>
 
 </div>
 
+I'm Josué Lobo, QA Engineer, Developer, and AI Enthusiast, with +4 years of experience in software quality assurance, working across startups and consultancies. Bachelor's degree in Computer Science from Vila Velha University (UVV) and postgraduate degree in Data Science & Machine Learning.
 
-Sou Josué Lobo, QA Engineer, Desenvolvedor e Entusiasta de IA, com **+4 anos de experiência** em garantia de qualidade de software, atuando em startups e consultorias. Bacharel em Ciência da Computação pela **Universidade Vila Velha (UVV)** e pós-graduado em **Data Science & Machine Learning**.
-
-Sou **Cypress Ambassador** 🌲 e apaixonado por qualidade, automação e pelo universo de Inteligência Artificial aplicada ao desenvolvimento de software.
+I'm a Cypress Ambassador 🌲 passionate about quality, automation, and the world of Artificial Intelligence applied to software development. I also create content on YouTube 🎥 about test automation and Cypress, feel free to check out [my channel](https://www.youtube.com/@jojosuelobo)
 
 ---
 
 ```javascript
 const jojosue = {
   role: [QA_Automation_Engineer, Cypress_Ambassador, AI_Enthusiast],
-  experience: +4,
-  currently: "Explorando AI Agents, LangFlow e automação inteligente",
+  experience: "+5 years",
+  currently: "Exploring AI Agents, LangFlow and intelligent automation",
   
-  testing: [Cypress, Playwright, Selenium, Jest, Selenium],
+  testing: [Cypress, Playwright, Selenium, Jest],
   ai_tools: [LangFlow, AI_Agents, Claude, Cursor],
   
   certifications: ["ISTQB CTFL", "Google Cloud", "CCNA"],  
@@ -43,25 +43,24 @@ const jojosue = {
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,notion)](https://skillicons.dev)
 
-
-**Frameworks de Teste:** Cypress · Playwright · Selenium · Jest · Ghost Inspector  
-**Gestão de Testes:** Zephyr Scale · Jira · GitHub Actions · Bitbucket Pipelines  
-**Metodologias:** Agile/Scrum · TDD · BDD · Testes Exploratórios · Regressão
-
----
-
-Nos últimos anos venho me aprofundando em IA aplicada ao desenvolvimento e qualidade de software:
-
-- QA e análise de UX para componentes de **LangFlow**
-- Design e desenvolvimento de **AI Agents**
-- **Prompt Engineering** para fluxos de trabalho inteligentes
-- Avaliação funcional e de performance de pipelines de AI/ML
-
-**Ferramentas & Conceitos:** LangFlow · LangChain · AI Agents · Prompt Engineering · Data Science · Machine Learning
+**Testing Frameworks:** Cypress · Playwright · Selenium · Jest · Ghost Inspector
+**Test Management:** Zephyr Scale · Jira · GitHub Actions · Bitbucket Pipelines
+**Methodologies:** Agile/Scrum · TDD · BDD · Exploratory Testing · Regression Testing
 
 ---
 
-### Formação & Certificações
+Over the past few years I've been deepening my knowledge in AI applied to software development and quality:
+
+- QA and UX analysis for **LangFlow** components
+- Design and development of **AI Agents**
+- **Prompt Engineering** for intelligent workflows
+- Functional and performance evaluation of AI/ML pipelines
+
+**Tools & Concepts:** LangFlow · LangChain · AI Agents · Prompt Engineering · Data Science · Machine Learning
+
+---
+
+### Education & Certifications
 
 <p>
   <img src="https://img.shields.io/badge/-ISTQB%20CTFL-%23525252.svg?style=flat-square" />
@@ -70,9 +69,9 @@ Nos últimos anos venho me aprofundando em IA aplicada ao desenvolvimento e qual
   <img src="https://img.shields.io/badge/-Cypress%20Ambassador-04C38E?style=flat-square" />
 </p>
 
-- **Pós-Graduação em Data Science & Machine Learning** — XP Educação 
-- **Bacharelado em Ciência da Computação** — Universidade Vila Velha (UVV) 
-- ISTQB Certified Tester Foundation Level (CTFL)  
+- **Postgraduate Degree in Data Science & Machine Learning** — XP Educação
+- **Bachelor's Degree in Computer Science** — Vila Velha University (UVV)
+- **ISTQB Certified Tester Foundation Level (CTFL)**
 
 ---
 
